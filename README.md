@@ -1,6 +1,7 @@
 ### My name is Gyeongbin "Bak"
 
-major computer science & engineering in Chung-Ang University
+major computer science & engineering in Chung-Ang University 
+<br>
 interested in NLP
 
 <br>
