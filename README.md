@@ -1,5 +1,11 @@
 ### My name is Gyeongbin "Bak"
 
+#major computer science & engineering in Chung-Ang University
+#interested in NLP
+
+<br>
+<br>
+
 <!--
 **Gyeongbin/Gyeongbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
