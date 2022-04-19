@@ -1,4 +1,4 @@
-### My name is Gyeongbin "Bak"
+### My name is Gyeongbin Bak
 
 major computer science & engineering in Chung-Ang University 
 <br>
