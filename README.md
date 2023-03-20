@@ -2,8 +2,10 @@
   
 My name is Gyeongbin Bak <br>
 ## About Me
-Majoring Computer Science and Engineering <br>
-in CAU <br>
+Majoring Computer Science and Engineering in Chung-Ang University<br>
+
+## Interested in
+NLP, Front-End <br>
 
 ## 💻Tech Stack💻
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
