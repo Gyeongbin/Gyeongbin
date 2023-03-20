@@ -33,7 +33,7 @@ NLP, Front-End <br>
 
 **Contact** <br><br>
 <a href="mailto:tarabin49@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarabin49@gmail.com"/></a>
-<a href="https://www.instagram.com/gydotb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gydotb/"/> 
+<a href="https://www.instagram.com/gydotb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=gydotb&logoColor=white&link=https://www.instagram.com/gydotb/"/> 
 <br>
 <br>
 
