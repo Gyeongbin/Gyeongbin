@@ -3,7 +3,7 @@
 
 Hello, I'm Gyeongbin Bak! <br><br>
 
-** ✨Interested in✨ ** <br><br>
+**✨Interested in✨** <br><br>
 NLP, Front-end
 <br>
 <br>
@@ -24,13 +24,13 @@ NLP, Front-end
 <br>
 <br>
 
-** 🔖Now I'm Studying... **🔖 <br><br>
+**🔖Now I'm Studying...🔖** <br><br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
 <br>
 <br>
 
-** ☎️Contact☎️ ** <br><br>
+**☎️Contact☎️** <br><br>
 <a href="mailto:tarabin49@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarabin49@gmail.com"/></a>
 <a href="https://www.instagram.com/gydotb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=gydotb&logoColor=white&link=https://www.instagram.com/gydotb/"/> 
 <br>
