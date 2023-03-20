@@ -1,6 +1,6 @@
 <div align="center">
   
-My name is Gyeongbin Bak <br>
+
 ## About Me
 Majoring Computer Science and Engineering in Chung-Ang University<br>
 
