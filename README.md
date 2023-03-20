@@ -31,8 +31,6 @@ in CAU <br>
 <a href="https://www.instagram.com/gydotb/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gydotb/"/> 
 <br>
 
-</div>
-
 
 <!--
 **Gyeongbin/Gyeongbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,3 +51,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyeongbin&theme=graywhite&show_icons=true)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyeongbin&count_bg=%23494949&title_bg=%23C8C6C6&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  
+  </div>
