@@ -1,11 +1,14 @@
-<div align="center">
-  
 
 ## About Me
 Majoring Computer Science and Engineering in Chung-Ang University<br>
 
 ## Interested in
 NLP, Front-End <br>
+
+<br>
+<br>
+  
+<div align="center">
 
 ## 💻Tech Stack💻
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
