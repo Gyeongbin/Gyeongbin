@@ -3,7 +3,7 @@
 
 Hello, I'm Gyeongbin Bak! <br><br>
 
-** ✨Interested in✨ **
+** ✨Interested in✨ ** <br><br>
 NLP, Front-end
 <br>
 <br>
