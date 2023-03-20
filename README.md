@@ -1,5 +1,6 @@
 <div align="center">
-### My name is Gyeongbin Bak
+  
+My name is Gyeongbin Bak <br>
 ## About Me
 Majoring Computer Science and Engineering <br>
 in CAU <br>
