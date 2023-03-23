@@ -11,6 +11,7 @@ NLP, Front-end
 **💻Tech Stack💻** <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>
 <br>
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=Anaconda&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>
