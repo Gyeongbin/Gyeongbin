@@ -4,19 +4,8 @@
 Hello, I'm Gyeongbin Bak! <br><br>
 
 **✨Interested in✨** <br><br>
-Front-end, NLP
+Front-end
 <br>
-<br>
-
-**💻Tech Stack💻** <br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/></a> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat&logo=Adobe Illustrator&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/></a>
 <br>
 
 **🔖Now I'm Studying...🔖** <br><br>
