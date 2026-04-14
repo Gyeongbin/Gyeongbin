@@ -23,7 +23,8 @@ Front-end
 
 **☎️Contact☎️** <br><br>
 <a href="mailto:tarabin49@gmail.com"><img src="https://img.shields.io/badge/tarabin@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tarabin49@gmail.com"/></a>
-<a href="https://www.instagram.com/gydotb/"><img src="https://img.shields.io/badge/gydotb-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/gydotb/"/> 
+<a href="https://velog.io/@gyeongbin/posts"><img src="https://velog.io/@gyeongbin/posts?style=flat-square&logo=velog&logoColor=#20C997&link=https://velog.io/@gyeongbin/posts"/></a>
+
 <br>
 <br>
 
